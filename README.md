@@ -32,3 +32,33 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+https://buhalbu.com/
+https://buhalbu.com/nextjs/templates/next-js-blog-template-free
+Template Features (v1.2.0)
+Built on pure ReactJS & NextJS without jQuery
+TypeScript Version
+8 ready-to-use pages
+Sass Included
+Mobile-First Design
+Responsive Design
+Creative and Beautiful Layout
+5 Color Schemes
+Easy way to create new color schemes
+Fast, Lightweight & Powerful
+Integrated with Themify Icon Set
+React.js 18.x
+Next.js 12.x
+ES6+
+Bootstrap 5.x
+Simple client-side routing (page based)
+Internationalized Routing Support
+Functional Components
+Easily Customizable
+Reusable Components
+User-friendly dev architecture
+SEO-friendly
+Free Google fonts used
+Code checked by ESLint
+
+
